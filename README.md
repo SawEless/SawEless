@@ -1,5 +1,20 @@
-Full Stack Developer | React | Node.js | MongoDB
+# Hi, I'm Shailesh 👋
 
-Building StudyOS – Student Management Platform
+💻 Full Stack Developer  
+🚀 Building StudyOS  
+🎓 IT Student in Australia  
 
-IT Student in Australia passionate about building real-world applications.
+## Tech Stack
+React | Node.js | MongoDB | JavaScript | Python
+
+## Current Project
+StudyOS – Student Management System
+
+Features:
+• Student Pipeline
+• Document Management
+• Intake Calendar
+• Task Automation
+
+## Connect with me
+LinkedIn: https://linkedin.com/in/shailesh-bhattarai-596a18345
